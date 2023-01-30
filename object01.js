@@ -1,3 +1,5 @@
+// 객체 선언 (value 의 데이터 타입 string / number/ boolean /null / undefined / object / array / function ) 
+//함수 -객체의 value의 데이터 타입이  number인 [key, value]만 뽑아서 새로운 객체 return (reduce)
 const myObj = {
   str : 'hello', //string
   num : 30, //number
